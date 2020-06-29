@@ -1,5 +1,5 @@
-# NoDL
+# nodl_python
 
-![Test NoDL](https://github.com/ubuntu-robotics/nodl/workflows/test%20nodl/badge.svg?event=push)
+![License](https://img.shields.io/badge/license-LGPLv3-brightgreen) ![Test NoDL](https://github.com/ubuntu-robotics/nodl/workflows/test%20nodl/badge.svg?event=push)
 
-CLI and parsing utilities for the ROS 2 NoDL
+Implementation of the NoDL API in Python.

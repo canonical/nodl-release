@@ -1,0 +1,17 @@
+ros-foxy-ros2nodl (0.2.0-1focal) focal; urgency=high
+
+  * strip qos from nodl_python (will re-add later)
+  * test all packages and use codecov
+  * Contributors: Kyle Fazzari, Ted Kern
+
+ -- Ubuntu Robotics <ubuntu-robotics@lists.launchpad.net>  Mon, 29 Jun 2020 00:00:00 -0000
+
+ros-foxy-ros2nodl (0.1.0-1focal) focal; urgency=high
+
+  * Initial release
+  * Add show and validate verbs
+  * Contributors: Ted Kern
+
+ -- Ubuntu Robotics <ubuntu-robotics@lists.launchpad.net>  Thu, 28 May 2020 00:00:00 -0000
+
+

@@ -1,0 +1,19 @@
+ros-foxy-nodl-python (0.2.0-1focal) focal; urgency=high
+
+  * strip qos from nodl_python (will re-add later)
+  * test all packages and use codecov
+  * fix schemas not being exported for lookup in other packages
+  * Contributors: Kyle Fazzari, Ted Kern
+
+ -- Ubuntu Robotics <ubuntu-robotics@lists.launchpad.net>  Mon, 29 Jun 2020 00:00:00 -0000
+
+ros-foxy-nodl-python (0.1.0-1focal) focal; urgency=high
+
+  * Initial release
+  * Add API for finding NoDL interface by package/executable
+  * Add API for parsing NoDL files
+  * Contributors: Kyle Fazzari, Ted Kern
+
+ -- Ubuntu Robotics <ubuntu-robotics@lists.launchpad.net>  Thu, 28 May 2020 00:00:00 -0000
+
+
